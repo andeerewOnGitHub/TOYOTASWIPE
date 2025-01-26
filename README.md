@@ -11,9 +11,10 @@ ________________________________________________________________________________
 
 -Car Information: For each car, users can see detailed information such as the car's price, miles per gallon (MPG), available colors, and a link to Toyota's official website -for more details.
 
+
 -Easy Navigation: Clear and simple navigation between screens, allowing users to explore the app's features easily.
 
--Responsive Design: The app is designed to work seamlessly across a variety of devices, offering a smooth user experience.
+-Responsive Design: Due to Flutters flexible Nature, the app can run seamlessly on IOS, Android, and Windows browsers
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
@@ -23,11 +24,7 @@ ________________________________________________________________________________
 
 -Dart: The programming language used to write the app's logic.
 
--URL Launcher: Used to open external URLs (such as Toyota car pages and VR tours).
-
--PageView: Used for the car carousel, allowing users to swipe through different images and details.
-
--URL Launcher Integration: Buttons linking to various Toyota VR tours.
+-C++
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
